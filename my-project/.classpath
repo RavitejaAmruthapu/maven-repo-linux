@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/de/learnlib/learnlib-api/0.13.0/learnlib-api-0.13.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/automatalib/automata-api/0.7.0/automata-api-0.7.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/automatalib/automata-commons-util/0.7.0/automata-commons-util-0.7.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/guava/guava/22.0/guava-22.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar"/>
+  <classpathentry kind="var" path="M2_REPO/de/learnlib/learnlib-equivalence-oracles/0.13.0/learnlib-equivalence-oracles-0.13.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/automatalib/automata-util/0.7.0/automata-util-0.7.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/automatalib/automata-commons-smartcollections/0.7.0/automata-commons-smartcollections-0.7.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/automatalib/automata-core/0.7.0/automata-core-0.7.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/de/learnlib/learnlib-membership-oracles/0.13.0/learnlib-membership-oracles-0.13.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/de/learnlib/learnlib-util/0.13.0/learnlib-util-0.13.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/de/learnlib/learnlib-settings/0.13.0/learnlib-settings-0.13.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/de/learnlib/learnlib-statistics/0.13.0/learnlib-statistics-0.13.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/de/learnlib/learnlib-lstar/0.13.0/learnlib-lstar-0.13.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/de/learnlib/learnlib-datastructure-ot/0.13.0/learnlib-datastructure-ot-0.13.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/de/learnlib/learnlib-counterexamples/0.13.0/learnlib-counterexamples-0.13.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/de/learnlib/learnlib-acex/0.13.0/learnlib-acex-0.13.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/automatalib/automata-dot-visualizer/0.7.0/automata-dot-visualizer-0.7.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/automatalib/automata-serialization-dot/0.7.0/automata-serialization-dot-0.7.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/automatalib/automata-serialization-core/0.7.0/automata-serialization-core-0.7.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar"/>
+</classpath>
